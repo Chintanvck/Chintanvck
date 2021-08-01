@@ -30,3 +30,4 @@ int main()
     f3.close();
 }
 //chintan
+ // vck
